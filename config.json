@@ -1,0 +1,13 @@
+{
+    "coin": "cbtc",
+    "rpcUser": "",
+    "rpcPass": "",
+    "rpcIP": "",
+    "rpcPort": "",
+    "binaryPathWin": "",
+    "binaryPathMacOS": "",
+    "binaryPathLinux": "",
+    "confPathWin": "",
+    "confPathMacOS": "",
+    "confPathLinux": ""
+}
